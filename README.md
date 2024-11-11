@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vingorithm
-- 👀 I’m interested in Data Analysis and Machine Learning
+- 👀 I’m interested in Data Analytics and Machine Learning
 - 🌱 I’m currently learning Web and Mobile Development
 
 <!---
