@@ -3,7 +3,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vingorithm&theme=dark&hide_border=false" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vingorithm&theme=dark&hide_border=false" alt="GitHub Stats" style="width: 100%; max-width: 600px;" />
 </div>
 
 ## 🌐 Socials:
@@ -14,6 +14,5 @@
 
 ### ✍️ Random Dev Quote
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" style="width: 100%; max-width: 600px;" />
 </div>
-
