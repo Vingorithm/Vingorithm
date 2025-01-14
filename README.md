@@ -4,6 +4,9 @@
 🌱 I’m currently learning **Web and Mobile Development**
 
 ---
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JoeWI4cnc1YjZhd2hsbjl6Y3N1Y3RieG83ZWxpOXVkcHp2ODh2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+</div>
 
 # 📊 GitHub Stats:
 <div align="center">
