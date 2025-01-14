@@ -20,9 +20,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vingorithm&theme=dark&hide_border=false" alt="GitHub Stats" style="width: 100%; max-width: 600px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vingorithm&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
-
 ---
 
 ## 🛠️ Technologies & Tools
