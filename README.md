@@ -13,16 +13,26 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinphilipstanamas/)  
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-%23FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27315153)  
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/kevinphilipstanamas/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://stackoverflow.com/users/27315153">
+    <img src="https://img.shields.io/badge/-StackOverflow-%23FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <!-- Add portfolio/website if you have one -->
+  <a href="[https://yourwebsite.com](https://kevinphilipstanamas.vercel.app/#home)">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vingorithm&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vingorithm&theme=prussian&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vingorithm&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
-
 ---
 
 ## 🛠️ Technologies & Tools
