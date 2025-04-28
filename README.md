@@ -61,3 +61,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=I+love+learning+new+things!;I+build+cool+projects.;I'm+always+open+to+collaboration!" alt="Typing SVG" />
 </div>
+
+---
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vingorithm&theme=react-dark&area=true&hide_border=true" alt="activity graph" />
+</div>
+
