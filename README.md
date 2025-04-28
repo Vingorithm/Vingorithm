@@ -1,14 +1,16 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JoeWI4cnc1YjZhd2hsbjl6Y3N1Y3RieG83ZWxpOXVkcHp2ODh2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150"/>
-  <h1>Hi There👋 Welcome to My GitHub Profile!</h1>
+  <h1>Hi there! 👋 Welcome to my GitHub Profile</h1>
+  <h3>I'm passionate about learning, building, and sharing!</h3>
 </div>
 
 ---
 
 ## 💫 About Me
 - 👋 Hi, I’m **@Vingorithm**
-- 👀 I’m interested in **Data Analytics**, **Machine Learning**, and **Software Development**
-- 🌱 I’m currently learning **Web and Mobile Development** (React, Laravel, Flutter)
+- 👀 I’m passionate about **Data Analytics**, **Machine Learning**, and **Software Development**.
+- 🌱 Currently expanding my skills in **Web Development** (React, Node.js, Express.js) and **Mobile Development** (Flutter, Express.js).
+- 🚀 Always excited to learn new technologies and take on challenges!
 
 ---
 
@@ -54,3 +56,8 @@
 </div>
 
 ---
+
+## 🧠 Fun Fact
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=I+love+learning+new+things!;I+build+cool+projects.;I'm+always+open+to+collaboration!" alt="Typing SVG" />
+</div>
