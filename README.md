@@ -11,7 +11,7 @@
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vingorithm/Vingorithm/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/Vingorithm/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
 ## 📈 Activity Graph
