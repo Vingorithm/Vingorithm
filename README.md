@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JoeWI4cnc1YjZhd2hsbjl6Y3N1Y3RieG83ZWxpOXVkcHp2ODh2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150"/>
-  <h1>Hi there! 👋 Welcome to my GitHub Profile</h1>
-  <h3>I'm passionate about learning, building, and sharing!</h3>
+  <h1>Hi there! 👋 I am Kevin</h1>
 </div>
 
 ---
@@ -47,12 +46,9 @@
 </div>
 
 ---
-
-## 📊 GitHub Stats
+## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vingorithm&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vingorithm&theme=prussian&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vingorithm&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vingorithm&theme=react-dark&area=true&hide_border=true" alt="activity graph" />
 </div>
 
 ---
@@ -60,12 +56,5 @@
 ## 🧠 Fun Fact
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=I+love+learning+new+things!;I+build+cool+projects.;I'm+always+open+to+collaboration!" alt="Typing SVG" />
-</div>
-
----
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vingorithm&theme=react-dark&area=true&hide_border=true" alt="activity graph" />
 </div>
 
