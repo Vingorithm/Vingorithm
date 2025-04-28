@@ -10,6 +10,23 @@
 - 🚀 Always excited to learn new technologies and take on challenges!
 - 📩 You can reach me via kevinkevin.kk92@gmail.com
 
+## 🛠️ Technologies & Tools
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; padding: 20px 0; background: linear-gradient(45deg, #6a11cb, #2575fc); border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius: 8px; transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="border-radius: 8px; transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" style="border-radius: 8px; transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="border-radius: 8px; transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" style="border-radius: 8px; transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" style="border-radius: 8px; transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 8px; transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius: 8px; transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="border-radius: 8px; transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="border-radius: 8px; transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" style="border-radius: 8px; transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/CUDA-%230075B6.svg?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" style="border-radius: 8px; transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 8px; transition: transform 0.3s;"/>
+</div>
+
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vingorithm&theme=react-dark&area=true&hide_border=true" alt="activity graph" style="border-radius: 10px; border: 2px solid #ddd;"/>
