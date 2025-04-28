@@ -3,30 +3,11 @@
   <h1>Hi there! 👋 I'm Kevin, nice to meet you!</h1>
 </div>
 
----
-
 ## 💫 About Me
 - 👋 Hi, I’m **@Vingorithm**
 - 👀 I’m passionate about **Data Analytics**, **Machine Learning**, and **Software Development**.
 - 🌱 Currently honing my skills in **Web Development** (React, Node.js, Express.js) and **Mobile Development** (Flutter, Express.js).
 - 🚀 Always excited to learn new technologies and take on challenges!
-
----
-
-## 🌐 Connect with Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/kevinphilipstanamas/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://stackoverflow.com/users/27315153">
-    <img src="https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-  <a href="https://kevinphilipstanamas.vercel.app/#home">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
-
----
 
 ## 🛠️ Technologies & Tools
 <div align="center">
@@ -45,14 +26,10 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </div>
 
----
-
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vingorithm&theme=react-dark&area=true&hide_border=true" alt="activity graph" />
 </div>
-
----
 
 ## 🧠 Fun Fact
 <div align="center">
