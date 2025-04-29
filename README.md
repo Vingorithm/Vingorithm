@@ -48,5 +48,5 @@
 
 ## 🧠 Fun Fact
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=I+love+learning+new+things!;I+build+cool+projects.;I'm+always+open+to+exciting+collaborations!" alt="Typing SVG" style="border-radius: 10px; border: 2px solid #ddd; padding: 10px;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=I+love+learning+new+things!;I+build+cool+projects.;I+love+mie+ayam!" alt="Typing SVG" style="border-radius: 10px; border: 2px solid #ddd; padding: 10px;"/>
 </div>
