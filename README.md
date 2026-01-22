@@ -6,7 +6,7 @@
 ## 💫 About Me
 - 👋 Hi, I’m **@Vingorithm**
 - 👀 I’m passionate about **Software Development**, **Machine Learning**, and **Data Science**.
-- 🌱 Currently honing my skills in **Web Development** (React, Express.js, and Java Springboot) and **Mobile Development** (Flutter, Express.js).
+- 🌱 Currently honing my skills in **Web Development** (React, Svelte.js, Express.js, Java Springboot, and GoLang).
 - 🚀 Always excited to learn new technologies and take on challenges!
 - 📩 You can reach me via kevinkevin.kk92@gmail.com
 
