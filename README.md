@@ -123,6 +123,6 @@
 ██████████████████████████████████████████████████████████
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=100&section=footer&text=GAME+OVER+—+THANKS+FOR+VISITING!&fontSize=16&fontColor=00FF41&fontAlignY=65&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=100&section=footer&text=THANKS+FOR+VISITING!&fontSize=16&fontColor=00FF41&fontAlignY=65&animation=twinkling" />
 
 </div>
