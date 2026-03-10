@@ -1,15 +1,5 @@
 <div align="center">
 
-<!-- PIXEL HEADER -->
-```
-██╗  ██╗███████╗██╗   ██╗██╗███╗   ██╗
-██║ ██╔╝██╔════╝██║   ██║██║████╗  ██║
-█████╔╝ █████╗  ██║   ██║██║██╔██╗ ██║
-██╔═██╗ ██╔══╝  ╚██╗ ██╔╝██║██║╚██╗██║
-██║  ██╗███████╗ ╚████╔╝ ██║██║ ╚████║
-╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
-```
-
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+LOADING+PLAYER_ONE...;%3E+KEVIN+PHILIPS+HAS+ENTERED+THE+GAME!;%3E+PRESS+START+TO+CONTINUE..." alt="Typing SVG" />
 
 <br/>
@@ -33,7 +23,7 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │  CHARACTER SELECT                                               │
 ├─────────────────────────────────────────────────────────────────┤
-│  NAME     : Kevin Philips Tanamas                               │
+│  NAME     : Kevin Philips                                       │
 │  ALIAS    : @Vingorithm                                         │
 │  CLASS    : Full-Stack Developer + ML Engineer                  │
 │  HP       : ████████████████████ MAX                            │
@@ -43,33 +33,6 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-<!-- CURRENT QUEST -->
-<div align="center">
-
-## 📜 `[ ACTIVE QUESTS ]`
-
-</div>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  🗡️  MAIN QUEST: Master Full-Stack Web Development              ║
-║      ├── [✅] React.js          ████████████████████  COMPLETED ║
-║      ├── [🔄] Svelte.js         ██████████░░░░░░░░░░  IN PROG.  ║
-║      ├── [🔄] Express.js        ████████████░░░░░░░░  IN PROG.  ║
-║      ├── [🔄] Java Springboot   ██████████░░░░░░░░░░  IN PROG.  ║
-║      └── [🔄] GoLang            ████████░░░░░░░░░░░░  IN PROG.  ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🧙 SIDE QUEST: Conquer Machine Learning & Data Science         ║
-║      ├── [✅] TensorFlow + Keras ████████████████████  DONE     ║
-║      ├── [✅] CUDA + GPU         ████████████████████  DONE     ║
-║      └── [✅] Data Analysis      ████████████████████  DONE     ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🏆 BONUS QUEST: Build awesome open source projects!            ║
-║      └── [🔄] NEVER ENDING...   ░░░░░░░░░░░░░░░░░░░░  ONGOING  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
 ---
 
@@ -90,7 +53,7 @@
 ### 🛡️ Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -110,6 +73,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
@@ -153,6 +117,7 @@
 
 </div>
 
+
 ---
 
 <!-- CONTACT SECTION -->
@@ -166,8 +131,6 @@
 ╠═══════════════════════════════════════════════════╣
 ║  📧  EMAIL    : kevinkevin.kk92@gmail.com         ║
 ║  🐙  GITHUB   : github.com/Vingorithm             ║
-║  🚀  STATUS   : OPEN TO COLLABORATE               ║
-║  💬  RESPONSE : WITHIN 24 HRS (USUALLY)           ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
