@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+LOADING+PLAYER_ONE...;%3E+KEVIN+PHILIPS+HAS+ENTERED+THE+GAME!;%3E+PRESS+START+TO+CONTINUE..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+LOADING+PLAYER_ONE...;%3E+KEVIN+PHILIPS+TANAMAS+HAS+ENTERED+THE+GAME!;%3E+PRESS+START+TO+CONTINUE..." alt="Typing SVG" />
 
 <br/>
 
@@ -15,7 +15,7 @@
 <!-- ABOUT ME PIXEL SECTION -->
 <div align="center">
 
-## 👾 `[ PLAYER ONE ]`
+## 👾 `[ PROFILE ]`
 
 </div>
 
@@ -29,7 +29,7 @@
 │  HP       : ████████████████████ MAX                            │
 │  FOCUS    : Web Dev, Machine Learning & Data Science            │
 │  CONTACT  : kevinkevin.kk92@gmail.com                           │
-│  STATUS   : Currently grinding Web Dev skills... 🔥            │
+│  STATUS   : Currently grinding Web Dev skills...                │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,22 +81,6 @@
 
 ---
 
-<!-- STATS SECTION -->
-<div align="center">
-
-## 📊 `[ PLAYER STATS ]`
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vingorithm&show_icons=true&theme=chartreuse-dark&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&bg_color=0d1117&border_color=00FF41&border_radius=0&custom_title=⚡+VINGORITHM+STATS" width="49%" alt="stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Vingorithm&theme=dark&background=0D1117&ring=00FF41&fire=FFD700&currStreakLabel=00FF41&border=00FF41&stroke=00FF41" width="49%" alt="streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vingorithm&layout=compact&theme=chartreuse-dark&title_color=00FF41&text_color=FFFFFF&bg_color=0d1117&border_color=00FF41&border_radius=0&custom_title=💾+MOST+USED+LANGUAGES" width="49%" alt="top langs"/>
-
-</div>
-
----
-
 <!-- ACTIVITY GRAPH -->
 <div align="center">
 
@@ -105,18 +89,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vingorithm&bg_color=0d1117&color=00FF41&line=00FF41&point=FFD700&area=true&hide_border=false&border_color=00FF41&custom_title=COMMIT+ACTIVITY+GRAPH" alt="activity graph"/>
 
 </div>
-
----
-
-<!-- TROPHIES -->
-<div align="center">
-
-## 🏆 `[ ACHIEVEMENTS UNLOCKED ]`
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vingorithm&theme=matrix&no-frame=true&no-bg=false&column=7&margin-w=10" alt="trophies"/>
-
-</div>
-
 
 ---
 
