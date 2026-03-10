@@ -33,10 +33,9 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │  CHARACTER SELECT                                               │
 ├─────────────────────────────────────────────────────────────────┤
-│  NAME     : Kevin Philips                                       │
+│  NAME     : Kevin Philips Tanamas                               │
 │  ALIAS    : @Vingorithm                                         │
 │  CLASS    : Full-Stack Developer + ML Engineer                  │
-│  LEVEL    : INTERMEDIATE → ADVANCED  [████████░░] 80%          │
 │  HP       : ████████████████████ MAX                            │
 │  FOCUS    : Web Dev, Machine Learning & Data Science            │
 │  CONTACT  : kevinkevin.kk92@gmail.com                           │
@@ -151,43 +150,6 @@
 ## 🏆 `[ ACHIEVEMENTS UNLOCKED ]`
 
 <img src="https://github-profile-trophy.vercel.app/?username=Vingorithm&theme=matrix&no-frame=true&no-bg=false&column=7&margin-w=10" alt="trophies"/>
-
-</div>
-
----
-
-<!-- PIXEL ART DECORATION -->
-<div align="center">
-
-## 🕹️ `[ SECRET ROOM ]`
-
-```
-    ▓▓▓▓▓                 ▓▓▓▓▓
-   ▓▓   ▓▓               ▓▓   ▓▓
-   ▓▓   ▓▓               ▓▓   ▓▓
-    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  ▓▓  ▓  ▓  ▓  ▓  ▓  ▓  ▓  ▓  ▓▓
-  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-     ▓▓▓     ▓▓▓▓▓     ▓▓▓▓
-      ▓         ▓         ▓
-```
-
-```
-  > sudo make me a sandwich
-  Permission denied.
-
-  > sudo !! 
-  Permission granted... just kidding, go cook yourself 🍜
-
-  > ./run_life.sh --mode=developer
-  [INFO] Caffeine level: CRITICAL
-  [INFO] Loading Stack Overflow...
-  [INFO] Googling error messages...
-  [INFO] Copy-pasting from GitHub...
-  [SUCCESS] Feature deployed to PRODUCTION ✅
-  [ERROR] It works on my machine 💀
-```
 
 </div>
 
