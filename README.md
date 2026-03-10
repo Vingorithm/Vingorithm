@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+LOADING+PLAYER_ONE...;%3E+KEVIN+PHILIPS+TANAMAS+HAS+ENTERED+THE+GAME!;%3E+PRESS+START+TO+CONTINUE..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+LOADING+PLAYER_ONE...;%3E+KEVIN+PHILIPS+TANAMAS;%3E+PRESS+START+TO+CONTINUE..." alt="Typing SVG" />
 
 <br/>
 
@@ -26,7 +26,6 @@
 │  NAME     : Kevin Philips                                       │
 │  ALIAS    : @Vingorithm                                         │
 │  CLASS    : Full-Stack Developer + ML Engineer                  │
-│  HP       : ████████████████████ MAX                            │
 │  FOCUS    : Web Dev, Machine Learning & Data Science            │
 │  CONTACT  : kevinkevin.kk92@gmail.com                           │
 │  STATUS   : Currently grinding Web Dev skills...                │
